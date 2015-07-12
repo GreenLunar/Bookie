@@ -5,6 +5,7 @@ Bookie
 :Mailing List: https://groups.google.com/forum/?hl=en#!forum/bookie_bookmarks
 :Twitter: http://twitter.com/BookieBmarks
 :Build Server: http://build.bmark.us
+:Public Instances: https://github.com/bookieio/Bookie/wiki/Bookie-instances
 
 Bookie will one day be a self-hosted bookmark web-service similar to
 Delicious.
